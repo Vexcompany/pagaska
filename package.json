@@ -1,0 +1,30 @@
+{
+  "name": "pagaska",
+  "version": "2.0.0",
+  "description": "Bot By VexxStore",
+  "main": "pagaska.js",
+  "scripts": {
+    "start": "node pagaska.js",
+    "dev": "nodemon pagaska.js"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "axios": "^1.7.9",
+    "canvas": "^3.2.0",
+    "chalk": "^4.1.2",
+    "fs": "0.0.1-security",
+    "node-cron": "^4.2.1",
+    "node-fetch": "^2.6.7",
+    "node-telegram-bot-api": "^0.61.0",
+    "node-upload-images": "^1.0.1",
+    "os": "^0.1.2",
+    "unzipper": "^0.12.3",
+    "yt-search": "^2.6.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "author": "Vex 𐋄 Company",
+  "license": "MIT"
+}
